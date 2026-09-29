@@ -22,4 +22,4 @@
 ## Установка
 
 ```bash
-pip install requests beautifulsoup4 lxml python-docx
+pip install requests beautifulsoup4 lxml python-docx pandas openpyxl
